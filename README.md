@@ -1,7 +1,6 @@
 # Annulus-domain-problem
 0.   Download Chunkie package 
 1.  Create the annulus domain "circle2" (stupid file name)
-2.  Find the eigenvalues roughly on [0,10] by "test1_1" with corresponding plot
-3.  Use "annulustest2" to "annulustest2_5" to find better solutions and "annulustest2" has descriptions for each step
-5.  Use "besseltest" to find which solution fits equation (6) (in pdf) best
-6.  m0,...,m8 shows numerical soltuion given by WolframAlpha
+2.  Use "annulustest2" to "annulustest2_5" to find solutions and "annulustest2" has descriptions for each step
+3.  Use "besseltest" to find which solution fits equation (6) (in pdf) best
+4.  m0,...,m8 shows numerical soltuion given by WolframAlpha
