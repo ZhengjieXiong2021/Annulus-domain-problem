@@ -1,4 +1,4 @@
-%find eigenvalue on [8.55,8.6]
+%find eigenvalue on [a,b]
 a=8.55;
 b=8.6;
 mid=(a+b)/2;
